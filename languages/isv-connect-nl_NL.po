@@ -1,0 +1,351 @@
+# Copyright (C) 2018 isv-connect
+# This file is distributed under the same license as the isv-connect package.
+msgid ""
+msgstr ""
+"Project-Id-Version: isv-connect\n"
+"Report-Msgid-Bugs-To: https://github.com/radishconcepts/isv-connect/issues\n"
+"POT-Creation-Date: 2018-03-01 10:34+0100\n"
+"PO-Revision-Date: 2018-03-01 10:34+0100\n"
+"Last-Translator: \n"
+"Language-Team: Translations Team <translations@radishconcepts.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/ISV_Admin.php:31
+msgid "API"
+msgstr "API"
+
+#: classes/ISV_Admin.php:32
+msgid "General"
+msgstr "Algemeen"
+
+#: classes/ISV_Admin.php:33
+msgid "Template: Intest"
+msgstr "Template: Intest"
+
+#: classes/ISV_Admin.php:34
+msgid "Template: Trainingarea"
+msgstr "Template: Trainingsgebied"
+
+#: classes/ISV_Admin.php:35
+msgid "Template: Theory"
+msgstr "Template: Theorie"
+
+#: classes/ISV_Admin.php:36
+msgid "Template: Education"
+msgstr "Template: Opleiding"
+
+#: classes/ISV_Admin.php:66 classes/ISV_Admin.php:83
+msgid "ISV"
+msgstr "ISV"
+
+#: classes/ISV_Admin.php:77
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U heeft onvoldoende rechten om deze pagina te bekijken of te bewerken."
+
+#: classes/ISV_Admin.php:330 classes/ISV_Admin.php:388
+#: classes/ISV_Admin.php:447
+msgid "The data has been saved"
+msgstr "De gegevens zijn opgeslagen"
+
+#: classes/ISV_Admin.php:337
+msgid "Template settings"
+msgstr "Template instellingen"
+
+#: classes/ISV_Admin.php:352
+msgid "Show"
+msgstr "Tonen"
+
+#: classes/ISV_Admin.php:355
+msgid "Hide"
+msgstr "Verbergen"
+
+#: classes/ISV_Admin.php:362 classes/ISV_Admin.php:415
+#: classes/ISV_Admin.php:489
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: classes/ISV_Admin.php:395
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: classes/ISV_Admin.php:409
+msgid "Hide our CSS stylesheet?"
+msgstr "Verberg ons meegeleverde CSS stylesheet?"
+
+#: classes/ISV_Admin.php:454
+msgid "API settings"
+msgstr "API instellingen"
+
+#: classes/ISV_Admin.php:466
+msgid "API Access key:"
+msgstr "API Access key:"
+
+#: classes/ISV_Admin.php:471
+msgid "API Endpoint URI:"
+msgstr "API Endpoint URI:"
+
+#: classes/ISV_Admin.php:476
+msgid "Bookingspage endpoint URI:"
+msgstr "Boekingspagina endpoint URI:"
+
+#: classes/ISV_Admin.php:482
+msgid "Cache time (minutes):"
+msgstr "Cache tijd (minuten):"
+
+#: classes/ISV_Admin.php:484
+msgid "Enter 0 to disable cache"
+msgstr "Voer 0 in om het cache systeem uit te schakelen"
+
+#: classes/ISV_Layout.php:160
+msgid "From"
+msgstr "Van"
+
+#: classes/ISV_Layout.php:168
+msgid "Until"
+msgstr "Tot"
+
+#: classes/ISV_Layout.php:176
+msgid "Fetch"
+msgstr "Ophalen"
+
+#: classes/ISV_Remote_Strings.php:19 classes/ISV_Remote_Strings.php:53
+#: classes/ISV_Remote_Strings.php:89
+msgid "Key"
+msgstr "Key"
+
+#: classes/ISV_Remote_Strings.php:20 classes/ISV_Remote_Strings.php:54
+msgid "PlanType"
+msgstr "PlanType"
+
+#: classes/ISV_Remote_Strings.php:21 classes/ISV_Remote_Strings.php:55
+#: classes/ISV_Remote_Strings.php:92
+msgid "ID"
+msgstr "ID"
+
+#: classes/ISV_Remote_Strings.php:22 classes/ISV_Remote_Strings.php:57
+#: classes/ISV_Remote_Strings.php:90
+msgid "Type"
+msgstr "Type"
+
+#: classes/ISV_Remote_Strings.php:23 classes/ISV_Remote_Strings.php:60
+msgid "State"
+msgstr "State"
+
+#: classes/ISV_Remote_Strings.php:24 classes/ISV_Remote_Strings.php:61
+msgid "Status"
+msgstr "Status"
+
+#: classes/ISV_Remote_Strings.php:25 classes/ISV_Remote_Strings.php:62
+msgid "StatusDescription"
+msgstr "Statusomschrijving"
+
+#: classes/ISV_Remote_Strings.php:26 classes/ISV_Remote_Strings.php:63
+#: classes/ISV_Remote_Strings.php:93
+msgid "Start"
+msgstr "Start"
+
+#: classes/ISV_Remote_Strings.php:27 classes/ISV_Remote_Strings.php:64
+#: classes/ISV_Remote_Strings.php:94
+msgid "Start_Date"
+msgstr "Startdatum"
+
+#: classes/ISV_Remote_Strings.php:28 classes/ISV_Remote_Strings.php:65
+#: classes/ISV_Remote_Strings.php:95
+msgid "Start_Time"
+msgstr "Starttijd"
+
+#: classes/ISV_Remote_Strings.php:29 classes/ISV_Remote_Strings.php:66
+#: classes/ISV_Remote_Strings.php:96
+msgid "Start_Unix"
+msgstr "Van"
+
+#: classes/ISV_Remote_Strings.php:30 classes/ISV_Remote_Strings.php:67
+#: classes/ISV_Remote_Strings.php:97
+msgid "End"
+msgstr "Tot"
+
+#: classes/ISV_Remote_Strings.php:31 classes/ISV_Remote_Strings.php:68
+#: classes/ISV_Remote_Strings.php:98
+msgid "End_Date"
+msgstr "Einddatum"
+
+#: classes/ISV_Remote_Strings.php:32 classes/ISV_Remote_Strings.php:69
+#: classes/ISV_Remote_Strings.php:99
+msgid "End_Time"
+msgstr "Eindtijd"
+
+#: classes/ISV_Remote_Strings.php:33 classes/ISV_Remote_Strings.php:70
+#: classes/ISV_Remote_Strings.php:100
+msgid "End_Unix"
+msgstr "Tot"
+
+#: classes/ISV_Remote_Strings.php:34 classes/ISV_Remote_Strings.php:71
+msgid "Duration"
+msgstr "Duur"
+
+#: classes/ISV_Remote_Strings.php:35 classes/ISV_Remote_Strings.php:72
+#: classes/ISV_Remote_Strings.php:101
+msgid "WeekOfYear"
+msgstr "Week"
+
+#: classes/ISV_Remote_Strings.php:36
+msgid "Category_ID"
+msgstr "Categorie ID"
+
+#: classes/ISV_Remote_Strings.php:37
+msgid "Category_Name"
+msgstr "Categorie naam"
+
+#: classes/ISV_Remote_Strings.php:38
+msgid "TrainingAreaCategory_ID"
+msgstr "Trainingsgebied categorie ID"
+
+#: classes/ISV_Remote_Strings.php:39
+msgid "TrainingAreaCategory_Name"
+msgstr "Trainingsgebied categorienaam"
+
+#: classes/ISV_Remote_Strings.php:40 classes/ISV_Remote_Strings.php:75
+msgid "Trainer_ID"
+msgstr "Trainer_ID"
+
+#: classes/ISV_Remote_Strings.php:41 classes/ISV_Remote_Strings.php:76
+msgid "Trainer_Name"
+msgstr "Trainernaam"
+
+#: classes/ISV_Remote_Strings.php:42
+msgid "Vehicle_ID"
+msgstr "Voertuig ID"
+
+#: classes/ISV_Remote_Strings.php:43
+msgid "Vehicle_Name"
+msgstr "Voertuig naam"
+
+#: classes/ISV_Remote_Strings.php:44 classes/ISV_Remote_Strings.php:80
+#: classes/ISV_Remote_Strings.php:103
+msgid "Description"
+msgstr "Omschrijving"
+
+#: classes/ISV_Remote_Strings.php:45 classes/ISV_Remote_Strings.php:81
+msgid "PickupAddress"
+msgstr "Ophaaladres"
+
+#: classes/ISV_Remote_Strings.php:46 classes/ISV_Remote_Strings.php:82
+msgid "TotalCandidateCount"
+msgstr "Totaal aantal plaatsen"
+
+#: classes/ISV_Remote_Strings.php:47 classes/ISV_Remote_Strings.php:83
+msgid "AvailableCandidateCount"
+msgstr "Plaatsen beschikbaar"
+
+#: classes/ISV_Remote_Strings.php:48 classes/ISV_Remote_Strings.php:84
+#: classes/ISV_Remote_Strings.php:107
+msgid "Availability"
+msgstr "Beschikbaarheid"
+
+#: classes/ISV_Remote_Strings.php:49 classes/ISV_Remote_Strings.php:85
+#: classes/ISV_Remote_Strings.php:108
+msgid "OnlineAvailability"
+msgstr "Online beschikbaar"
+
+#: classes/ISV_Remote_Strings.php:56
+msgid "SetKey"
+msgstr "SetKey"
+
+#: classes/ISV_Remote_Strings.php:58
+msgid "Index"
+msgstr "Index"
+
+#: classes/ISV_Remote_Strings.php:59
+msgid "BlockIndex"
+msgstr "BlockIndex"
+
+#: classes/ISV_Remote_Strings.php:73
+msgid "TheoryGroup_ID"
+msgstr "TheoryGroup_ID"
+
+#: classes/ISV_Remote_Strings.php:74
+msgid "TheoryGroup_Name"
+msgstr "TheoryGroup_Name"
+
+#: classes/ISV_Remote_Strings.php:77
+msgid "Product_ID"
+msgstr "Product_ID"
+
+#: classes/ISV_Remote_Strings.php:78
+msgid "Product_Code"
+msgstr "Product_Code"
+
+#: classes/ISV_Remote_Strings.php:79
+msgid "Product_Name"
+msgstr "Productnaam"
+
+#: classes/ISV_Remote_Strings.php:91
+msgid "PackageID"
+msgstr "Package ID"
+
+#: classes/ISV_Remote_Strings.php:102
+msgid "Name"
+msgstr "Naam"
+
+#: classes/ISV_Remote_Strings.php:104
+msgid "Article_ID"
+msgstr "Artikel ID"
+
+#: classes/ISV_Remote_Strings.php:105
+msgid "Price"
+msgstr "Prijs"
+
+#: classes/ISV_Remote_Strings.php:106
+msgid "Location"
+msgstr "Locatie"
+
+#: classes/ISV_Widget.php:17
+msgid "ISV Feedwidget"
+msgstr "ISV Feedwidget"
+
+#: classes/ISV_Widget.php:18
+msgid "Show a feed of planningitems from the ISV system"
+msgstr "Toon een feed van items uit het ISV systeem"
+
+#: classes/ISV_Widget.php:47
+msgid "Title:"
+msgstr "Titel:"
+
+#: classes/ISV_Widget.php:54
+msgid "Feedcode:"
+msgstr "Feedcode:"
+
+#: classes/ISV_Widget.php:61
+msgid "Show filters?"
+msgstr "Toon filters?"
+
+#: templates/Education.php:24
+msgid "Roster"
+msgstr "Rooster"
+
+#: templates/Education.php:43 templates/Theory.php:41
+msgid "Booked"
+msgstr "Vol"
+
+#: templates/Education.php:49 templates/Theory.php:47
+msgid "Add to cart"
+msgstr "Plaats in mandje"
+
+#: templates/Intest.php:16 templates/Trainingarea.php:16
+msgid "Book now"
+msgstr "Boek nu"
+
+#~ msgid "Please select and store the templates below."
+#~ msgstr "Please select and store the templates below."
